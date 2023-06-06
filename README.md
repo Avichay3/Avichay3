@@ -1,6 +1,6 @@
 # README
 # 💫 About Me:
-My name is Avichay. <br>I'm computer science student in 2rd year in Ariel univesity.<br>Until now I learned programming in  Java , Python , C , C++.<br>I love what I do and I want to be a team leader in the next 10 years.<br>I get very intrested in AI and machine learning and more.<br>  
+My name is Avichay. <br>I'm computer science student in 2rd year in Ariel univesity.<br>Until now I learned programming in  Java , Python , C , C++.<br>I love what I do and I want to be a team leader in the next 10 years.<br>I get very intrested in AI and machine learning and more.<br>  How to reach me: aviaimzina312@gmail.com
 
 
 # 💻 Tech Stack:
