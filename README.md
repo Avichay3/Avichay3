@@ -1,6 +1,6 @@
 # README
 # 💫 About Me:
-Hi everyone!<br> My name is Avichay. <br>I'm 23 years old and a computer science student in 3rd year at Ariel univesity in data science and AI path.<br>Until now I learned programming in  Java , Python , C , C++, SQL, mongoDB, Android Studio. <br>I love what I do and I do what I love.<br>I get very intrested in AI and machine learning. <br> Hope this passion will get bigger and bigger over the years. <br> How to reach me: aviaimzina312@gmail.com
+Hi everyone!<br> My name is Avichay. <br>I am a computer science student in 3rd year at Ariel univesity in data science and AI path.<br>Until now I learned programming in  Java , Python , C , C++, SQL, mongoDB, Android Studio. <br>I love what I do and I do what I love.<br>I get very intrested in AI and machine learning. <br> Hope this passion will get bigger and bigger over the years. <br> How to reach me: aviaimzina312@gmail.com
 
 
 # 💻 Tech Stack:
